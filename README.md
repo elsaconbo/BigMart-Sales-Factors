@@ -3,7 +3,7 @@
 ## Mô Tả Dự Án
 Dự án này bao gồm việc phân tích dữ liệu khám phá (EDA) và trực quan hóa dữ liệu bán hàng để khám phá các thông tin quan trọng. Sau khi thực hiện EDA, xây dựng và đánh giá một mô hình hồi quy tuyến tính để dự đoán doanh số bán hàng trong tương lai.
 ## Nội Dung 
-- analysis.ipynb: Jupyter Notebook chứa toàn bộ quá trình EDA, trực quan hóa dữ liệu và xây dựng mô hình hồi quy tuyến tính.
+- BigMartAnalysis.ipynb.ipynb: Jupyter Notebook chứa toàn bộ quá trình EDA, trực quan hóa dữ liệu và xây dựng mô hình hồi quy tuyến tính.
 - data.csv: File CSV chứa dữ liệu bán hàng được sử dụng cho phân tích.
 - requirements.txt: Danh sách các thư viện cần thiết để chạy notebook.
 ## Bắt Đầu
@@ -13,19 +13,12 @@ Hãy chắc chắn rằng bạn đã cài đặt Python. Bạn có thể tải n
 
 ### Cài Đặt
 1. Clone repository này về máy tính của bạn:
-    ```sh
-    git clone https://github.com/Thanhhien1005/AnalysisOfSalesUsingPython.git
-    cd AnalysisOfSalesUsingPython
-    ```
 
 2. Cài đặt các thư viện cần thiết:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 3. Mở Jupyter Notebook:
     ```sh
-    jupyter notebook analysis.ipynb
+    jupyter notebook BigMartAnalysis.ipynb.ipynb
     ```
 
 ## Luồng Công Việc Dự Án
